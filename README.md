@@ -1,3 +1,3 @@
 # apnacollegedemo
-this is my second git repository.
-author-Abhinay singh
+This is my Second git repository.
+Author-Abhinay singh
